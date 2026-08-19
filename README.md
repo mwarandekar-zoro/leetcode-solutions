@@ -24,9 +24,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

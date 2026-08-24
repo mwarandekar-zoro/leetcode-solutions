@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1436-destination-city) |
+| [1512-number-of-good-pairs](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -53,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1436-destination-city) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1436-destination-city) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->

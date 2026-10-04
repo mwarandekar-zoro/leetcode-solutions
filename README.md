@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0704-binary-search) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -97,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/mwarandekar-zoro/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
